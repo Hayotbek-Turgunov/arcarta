@@ -89,6 +89,14 @@ img{
   white-space: nowrap;
 }
 
+.button:hover{
+  opacity: 0.6;
+}
+
+.button:active{
+  opacity: 0.7;
+}
+
 .button-strong{
   display: inline-block;
   padding: 14px 32px;
@@ -193,11 +201,11 @@ img{
   font-size: 15px;
 }
 
-.sitenav__link:hover{
+.sitenav-link:hover{
   opacity: 0.8;
 }
 
-.sitenav__link:active{
+.sitenav-link:active{
   opacity: 0.6;
 }
 
