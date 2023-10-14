@@ -120,8 +120,15 @@ img{
   padding: 12px 37px;
   border-radius: 50px;
   border: 2px solid #E1DED9;
-  
-  
+}
+
+.index-feature-button:hover{
+  opacity: 0.6;
+  color: black;
+}
+
+.index-feature-button:active{
+ opacity: 0.8;
 }
 
 /* SITE-HEADER-TOGGLER */
